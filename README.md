@@ -16,3 +16,8 @@ Marvin-Wikipedia.ipynb
 - Retrieve information from wikipedia
 - For now it rephrase the summary of the page
 - Idealy it could summarize the content of the wikipedia page, but I have a too small GPU for that
+
+Marvin-v2.ipynb
+- Connection to MQTT server
+- Retrieve from wikipedia
+- More tests
